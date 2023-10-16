@@ -43,6 +43,7 @@
             // 
             // ButtonCheck
             // 
+            this.ButtonCheck.BackColor = System.Drawing.Color.CornflowerBlue;
             this.ButtonCheck.Dock = System.Windows.Forms.DockStyle.Fill;
             this.ButtonCheck.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.ButtonCheck.Location = new System.Drawing.Point(296, 463);
@@ -50,7 +51,7 @@
             this.ButtonCheck.Size = new System.Drawing.Size(287, 113);
             this.ButtonCheck.TabIndex = 0;
             this.ButtonCheck.Text = "Проверить";
-            this.ButtonCheck.UseVisualStyleBackColor = true;
+            this.ButtonCheck.UseVisualStyleBackColor = false;
             this.ButtonCheck.Click += new System.EventHandler(this.ButtonCheck_Click);
             // 
             // TextBoxLen1
@@ -182,6 +183,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.DarkTurquoise;
             this.ClientSize = new System.Drawing.Size(880, 579);
             this.Controls.Add(this.tableLayoutPanel1);
             this.MinimumSize = new System.Drawing.Size(700, 550);
