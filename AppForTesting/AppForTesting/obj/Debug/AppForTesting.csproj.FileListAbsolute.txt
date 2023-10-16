@@ -1,0 +1,11 @@
+C:\Users\Ярослав\Desktop\Модули\AppForTesting\AppForTesting\bin\Debug\AppForTesting.exe.config
+C:\Users\Ярослав\Desktop\Модули\AppForTesting\AppForTesting\bin\Debug\AppForTesting.exe
+C:\Users\Ярослав\Desktop\Модули\AppForTesting\AppForTesting\bin\Debug\AppForTesting.pdb
+C:\Users\Ярослав\Desktop\Модули\AppForTesting\AppForTesting\obj\Debug\AppForTesting.csproj.AssemblyReference.cache
+C:\Users\Ярослав\Desktop\Модули\AppForTesting\AppForTesting\obj\Debug\AppForTesting.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ярослав\Desktop\Модули\AppForTesting\AppForTesting\obj\Debug\AppForTesting.Form1.resources
+C:\Users\Ярослав\Desktop\Модули\AppForTesting\AppForTesting\obj\Debug\AppForTesting.Properties.Resources.resources
+C:\Users\Ярослав\Desktop\Модули\AppForTesting\AppForTesting\obj\Debug\AppForTesting.csproj.GenerateResource.cache
+C:\Users\Ярослав\Desktop\Модули\AppForTesting\AppForTesting\obj\Debug\AppForTesting.csproj.CoreCompileInputs.cache
+C:\Users\Ярослав\Desktop\Модули\AppForTesting\AppForTesting\obj\Debug\AppForTesting.exe
+C:\Users\Ярослав\Desktop\Модули\AppForTesting\AppForTesting\obj\Debug\AppForTesting.pdb
